@@ -10,7 +10,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 5px;
+    gap: 7px;
     margin-top: 20px;
 }
 
@@ -18,11 +18,13 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 3px solid #d3d6d3;
     border-radius: 10px;
-    background-color: #d3d6d3;
+    background-color: #afb2af;
     width: 50px;
     height: 50px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .Enter {
@@ -34,5 +36,6 @@ footer {
 }
 
 .Delete img {
-    width: 50px;
+    width: 38px;
+    filter: invert(1);
 }

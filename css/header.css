@@ -1,8 +1,8 @@
 header {
     display: flex;
     justify-content: space-between;
-    margin: 20px;
-    padding: 20px;
+    margin: 30px;
+    padding: 30px;
     border-top: 2px solid black;
     border-bottom: 1px solid black;
 }
@@ -16,11 +16,10 @@ header img {
     justify-content: space-between;
 }
 
-
-.info-bar__name {
-    font-size: 35px;
+.info-bar__main {
+    margin-left: 280px;
+    font-size: 45px;
     font-weight: bold;
-    margin-left: 300px;
 }
 
 
